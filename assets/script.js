@@ -71,8 +71,6 @@ while(nonSelected){
    }
   }
  
-  console.log(pwLength);
- 
 //adding the requested requirements to the password
   password = ensureRequirements;
   console.log(passwordCreator.length);
