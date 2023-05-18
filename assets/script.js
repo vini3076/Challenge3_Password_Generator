@@ -27,7 +27,7 @@ function generatePassword() {
       break;
     }
   }
-  console.log(pwLength);
+
 
 
 //loop to get the Password requirements
@@ -75,9 +75,11 @@ while(nonSelected){
  
 //adding the requested requirements to the password
   password = ensureRequirements;
-
+  console.log(passwordCreator.length);
   for (i=0;i < pwLength; i++ ){
   index = Math.floor(Math.random() * passwordCreator.length);
+
+  console.log("index: "+ index);
   password = password + passwordCreator[index];
   }
 
