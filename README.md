@@ -16,12 +16,11 @@ Built a password generator which asks the user for inputs and generates a random
 
 # Screenshots
 
-![Screenshot for project](./assets/images/Screen%20Shot%20Horiseon%201.png)
+![Screenshot for project](./assets/PasswordGenerator.png)
 
-![Screenshot for project](./assets/images/Screen%20Shot%20Horiseon%202.png)
 
 # Link
 
 [Link to Github Repository](https://github.com/vini3076/Challenge3_Password_Generator)
 
-[Link to Deployed page](https://vini3076.github.io/challenge_1_web_accessiblity/)
+[Link to Deployed page](https://https://vini3076.github.io/Challenge3_Password_Generator/)
